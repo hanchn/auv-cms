@@ -17,3 +17,7 @@
   - tasks 任务
 - dist 打包目录
 - env 环境目录
+  - .env.dev
+  - .env.pre
+  - .env.prod
+  - .env.test
