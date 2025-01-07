@@ -5,7 +5,8 @@
   "main": "./src/main.js",
   "type": "module",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development && nodemon ./src/main.js"
+    "dev": "cross-env NODE_ENV=development && nodemon ./src/main.js",
+    "router": "node ./scripts/auto-router.js"
   },
   "author": "",
   "license": "ISC",
