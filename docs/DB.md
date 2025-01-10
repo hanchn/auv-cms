@@ -13,7 +13,7 @@
 |  c_title | String | id |
 |  c_path | String | id |
 |  c_perId | String | id |
-|  c_sort | String | id |
+|  c_id | String | id |
 
 ## 目录表 
 
